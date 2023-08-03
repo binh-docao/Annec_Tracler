@@ -5,6 +5,7 @@ import GoogleMaps from '../components/GoogleMaps';
 const locations = [
   { name: 'Live Oak(Home)', latitude: 30.629540601331236, longitude: -96.32992232309329 },
   { name: 'Brookshire Brothers', latitude: 30.600401426812805, longitude: -96.34236913523226 },
+  { name: 'Monse\'s house', latitude: 30.61238701970667, longitude: -96.34154449692491 },
 ];
 
 const D_SearchBar = () => {
