@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <nav className="navbar sticky-top bg-dark">
             <div className="container-fluid">
-                <a className="navbar-brand text-white text-bold" href="/">ANNEC Finder</a>
+                <a className="navbar-brand text-white text-bold" href="/">ANNEC Tracker</a>
                 <div class="d-flex justify-content-between">
                 </div>
             </div>
